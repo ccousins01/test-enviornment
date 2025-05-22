@@ -1,0 +1,11 @@
+{
+  "name": "coach-app",
+  "version": "1.0.0",
+  "description": "App for bodybuilding & nutrition coach",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Chris Cousins",
+  "license": "MIT"
+}
